@@ -2,7 +2,10 @@
 Collection of Papers, Tools and Ideas focusing on neuroscience and machine learning which are worth spreading.  
 
 ---
+
 ### 1. Papers
+
+---
 
 ### 2. Tools
 #### 2.1 Freesurfer  
@@ -16,6 +19,8 @@ BRAinNetome fMRI Toolkit -- MATLAB scripts/GUIs for fMRI data pre-/post-processe
 [2-2]: https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
 [2-3]: https://github.com/kbxu/brant/
 [2-4]: http://brant.brainnetome.org/en/latest/
+
+---
 
 ### 3. Datasets
 
