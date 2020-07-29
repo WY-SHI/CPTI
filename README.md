@@ -6,14 +6,18 @@ Collection of Papers, Tools and Ideas focusing on neuroscience and machine learn
 + [AD] Qiu S, Joshi P S, Miller M I, et al. Development and validation of an interpretable deep learning framework for Alzheimer’s disease classification[J]. Brain, 2020.
 + [AD] Varol E, Sotiras A, Davatzikos C, et al. HYDRA: Revealing heterogeneity of imaging and genetic patterns through a multiple max-margin discriminative analysis framework[J]. Neuroimage, 2017, 145: 346-364.
 + [Survey] Zhang L, Wang M, Liu M, et al. A Survey on Deep Learning for Neuroimaging-based Brain Disorder Analysis[J]. arXiv preprint arXiv:2005.04573, 2020.
-#### 1.2. Graph Representation
+
+#### 1.2. Neuroscience
++ Yang G R, Joglekar M R, Song H F, et al. Task representations in neural networks trained to perform many cognitive tasks[J]. Nature neuroscience, 2019, 22(2): 297-306.
+
+#### 1.3. Graph Representation
 + Sankar A , Wu Y , Gou L , et al. Dynamic Graph Representation Learning via Self-Attention Networks[J]. 2018.
 + Rossi E, Chamberlain B, Frasca F, et al. Temporal Graph Networks for Deep Learning on Dynamic Graphs[J]. arXiv preprint arXiv:2006.10637, 2020.
 
-#### 1.3. Interpretable Machine Learning
+#### 1.4. Interpretable Machine Learning
 + Wan A, Dunlap L, Ho D, et al. NBDT: Neural-Backed Decision Trees[J]. arXiv preprint arXiv:2004.00221, 2020.
 
-#### 1.4. Unsupervised Learning
+#### 1.5. Unsupervised Learning
 
 ---
 
