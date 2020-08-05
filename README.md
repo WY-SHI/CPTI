@@ -16,6 +16,7 @@ Collection of Papers, Tools and Ideas focusing on neuroscience and machine learn
 
 #### 1.4. Interpretable Machine Learning
 + Wan A, Dunlap L, Ho D, et al. NBDT: Neural-Backed Decision Trees[J]. arXiv preprint arXiv:2004.00221, 2020.
++ Lundberg S M, Nair B, Vavilala M S, et al. Explainable machine-learning predictions for the prevention of hypoxaemia during surgery[J]. Nature Biomedical Engineering, 2018, 2(10): 749.
 
 #### 1.5. Unsupervised Learning
 + Dong J, Cong Y, Sun G, et al. What can be transferred: Unsupervised domain adaptation for endoscopic lesions segmentation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 4023-4032.
