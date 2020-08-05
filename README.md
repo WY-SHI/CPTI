@@ -18,6 +18,16 @@ Collection of Papers, Tools and Ideas focusing on neuroscience and machine learn
 + Wan A, Dunlap L, Ho D, et al. NBDT: Neural-Backed Decision Trees[J]. arXiv preprint arXiv:2004.00221, 2020.
 
 #### 1.5. Unsupervised Learning
++ Dong J, Cong Y, Sun G, et al. What can be transferred: Unsupervised domain adaptation for endoscopic lesions segmentation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 4023-4032.
++ He K, Fan H, Wu Y, et al. Momentum contrast for unsupervised visual representation learning[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 9729-9738.
++ Hu H, Xie L, Hong R, et al. Creating Something from Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 3123-3132.
++ Lin Y, Xie L, Wu Y, et al. Unsupervised person re-identification via softened similarity learning[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 3390-3399.
++ Tang H, Chen K, Jia K. Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 8725-8735.
++ Wang D, Zhang S. Unsupervised Person Re-identification via Multi-label Classification[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 10981-10990.
++ Ye M, Shen J. Probabilistic structural latent representation for unsupervised embedding[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 5457-5466.
++ Yu Y, Odobez J M. Unsupervised Representation Learning for Gaze Estimation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 7314-7324.
++ Zhan X, Xie J, Liu Z, et al. Online Deep Clustering for Unsupervised Representation Learning[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 6688-6697.
+
 
 ---
 
