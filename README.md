@@ -46,7 +46,7 @@ Software platform for clinical neuroimaging studies [[Github][2-5]]
 #### 2.5 Nilearn
 Machine learning for Neuro-Imaging in Python [[Document][2-6]]
 #### 2.6 Dipy
-DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging.
+DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging. [[tutorials][2-7]]
 
 [2-1]: http://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferWiki/
 [2-2]: https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
@@ -54,10 +54,11 @@ DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods f
 [2-4]: http://brant.brainnetome.org/en/latest/
 [2-5]: https://github.com/aramis-lab/clinica
 [2-6]: http://nilearn.github.io/index.html
-
-
+[2-7]: https://dipy.org/tutorials/
 ---
 
-### 3. Datasets
+
+
+
 
 
