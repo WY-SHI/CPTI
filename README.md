@@ -9,6 +9,8 @@ Collection of Papers, Tools and Ideas focusing on neuroscience and machine learn
 
 #### 1.2. Neuroscience
 + Yang G R, Joglekar M R, Song H F, et al. Task representations in neural networks trained to perform many cognitive tasks[J]. Nature neuroscience, 2019, 22(2): 297-306.
++ Finn E S, Shen X, Scheinost D, et al. Functional connectome fingerprinting: identifying individuals using patterns of brain connectivity[J]. Nature neuroscience, 2015, 18(11): 1664-1671.
++ Cai B, Zhang G, Zhang A, et al. Functional connectome fingerprinting: Identifying individuals and predicting cognitive functions via autoencoder[J]. Human Brain Mapping, 2021, 42(9): 2691-2705.
 
 #### 1.3. Graph Representation
 + Sankar A , Wu Y , Gou L , et al. Dynamic Graph Representation Learning via Self-Attention Networks[J]. 2018.
@@ -43,6 +45,8 @@ BRAinNetome fMRI Toolkit -- MATLAB scripts/GUIs for fMRI data pre-/post-processe
 Software platform for clinical neuroimaging studies [[Github][2-5]]
 #### 2.5 Nilearn
 Machine learning for Neuro-Imaging in Python [[Document][2-6]]
+#### 2.6 Dipy
+DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging.
 
 [2-1]: http://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferWiki/
 [2-2]: https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
